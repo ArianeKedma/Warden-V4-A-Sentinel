@@ -11,7 +11,7 @@
 - [Contato](#contato)
 
 # Sobre 
-Somos uma empresa de segurança especializada em IoT, oferecemos soluções inteligentes e inovadoras para proteger pessoas e patrimônios. Unimos tecnologia de ponta e automação para transformar a segurança tradicional em um sistema moderno, conectado e eficiente.
+
 ---
 
 # Warden 
@@ -20,26 +20,41 @@ Somos uma empresa de segurança especializada em IoT, oferecemos soluções inte
 
 # 🎯 Objetivo
 
-- Reduzir a criminalidade e prevenir invasões em áreas públicas
-- Monitorar eventos de grande porte, com segurança e eficiência
-- Facilitar o patrulhamento de regiões de díficil acesso
-- Fornecer dados estratégicos em tempo real
+- Reduzir a criminalidade e prevenir invasões em áreas públicas.
+- Monitorar eventos de grande porte, com segurança e eficiência.
+- Facilitar o patrulhamento de regiões de díficil acesso.
+- Fornecer dados estratégicos em tempo real.
 
 ---
 
 # ⚙️ Tecnologias Utilizadas
 
-- 
-- 
+💻 Software
+- Python/C++: Controle e programação embarcada.
+- MQTT / WebSocket: Comunicação segura entre drones e central.
+- LiDAR SDK: navegação e mapeamento 3D.
+- TensorFlow Lite/ OpenCV: Processamento e análise de imagens em tempo real.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
 </p>
+
+
+⌨️ Hardware
+- Câmeras 360º HD e térmicas
+- Sensores LiDAR para navegação 3D
+- Microfones direcionais
+- Sistema de recarga automática (pouso assistido)
 
 ---
 
 # Instalação e Uso
+
+---
+
+# Configuração
 
 ---
 
