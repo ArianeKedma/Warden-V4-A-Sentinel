@@ -74,8 +74,25 @@ Passos para executar o projeto
 git clone https://github.com/ArianeKedma/Warden-V4-A-Sentinel
 ```
 
-2. ****
+2. **Configure as variáveis de ambiente**:
 
+```
+COMM_KEY=suachavedecomunicacao
+DRONE_ID=seuid
+ROUTES=config/routes.json
+```
+
+3. **Inicie os serviços**:
+
+```
+docker-compose up -d
+```
+
+4. **Configure o drone**:
+
+```
+./scripts/upload_firmware.sh
+```
 
 ---
 
