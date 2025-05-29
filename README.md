@@ -100,7 +100,7 @@ docker-compose up -d
 
 ---
 
-# Contato
+# 👤 Contato
 
 - Equipe:
 - [Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
