@@ -10,7 +10,7 @@
 - [Configuração](#configuração)
 - [Contato](#contato)
 
-# Sobre 
+# 📩 Sobre 
 
 Somos uma empresa de segurança especializada em IoT, oferecendo soluções inteligentes e inovadoras para proteger pessoas e patrimônios. 
 Unimos tecnologia de ponta e automação para transformar a segurança tradicional em um sistema moderno, conectado e eficiente.
