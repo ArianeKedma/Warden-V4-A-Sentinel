@@ -109,6 +109,6 @@ docker-compose up -d
 - Email: 📫[cybersolutions@gmail.com](mailto:lavinia_domingos@estudante.sesisenai.org.br)
 
 - Equipe:
-[Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
-[Julia de França Macena Silva](https://github.com/Macenaaa)
-[Lavínia Domingos](https://github.com/laviDomingos)
+- [Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
+- [Julia de França Macena Silva](https://github.com/Macenaaa)
+- [Lavínia Domingos](https://github.com/laviDomingos)
