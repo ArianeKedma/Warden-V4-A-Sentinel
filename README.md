@@ -98,9 +98,15 @@ docker-compose up -d
 
 # Configuração
 
+- 🔑 Chave de Comunicação (COMM_KEY): Garante uma conexão segura e criptografada entre o drone e a central.
+- 🆔 Identificador do Drone (DRONE_ID): Cada drone recebe um ID único, facilitando o controle de múltiplas unidades.
+- 🗺️ Rotas de Patrulha (ROUTES): Arquivo JSON que define os trajetos automáticos, pontos de interesse e áreas de geofencing (restrições de voo).
+
 ---
 
 # 👤 Contato
+
+
 
 - Equipe:
 - [Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
